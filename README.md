@@ -1,6 +1,8 @@
 # soundthief
 Utilitaire python pour capturer le son de la carte de votre ordinateur
 
+<img src="interf7.jpg">
+
 Ce script Python est un enregistreur audio simple avec une interface graphique. Il permet de capturer le flux audio système (ce qui est envoyé vers les haut-parleurs ou les écouteurs), de l'enregistrer dans un fichier WAV, de le convertir en MP3, et de jouer le fichier enregistré en utilisant le lecteur de MP3 par défaut de Windows.
 
 Fonctionnalités du Script
